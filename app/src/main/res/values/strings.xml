@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scuba Diving Quiz</string>
+    <string name="question_one">Question One</string>
+    <string name="question_one_text">The air in your scuba tank consists of oxygen and nitrogen. What is the correct ratio?</string>
+    <string name="option_a_question_one">21% oxygen and 79% nitrogen</string>
+    <string name="option_b_question_one">50% oxygen and 50% nitrogen</string>
+    <string name="option_c_question_one">79% oxygen and 21% nitrogen</string>
+    <string name="option_d_question_one">None of the answers is correct</string>
+    <string name="question_two">Question Two</string>
+    <string name="question_two_text">True or false: There is such a thing as oxygen toxicity.</string>
+    <string name="option_a_question_two">true</string>
+    <string name="option_b_question_two">false</string>
+    <string name="question_three">Question Three</string>
+    <string name="question_three_text">How long should you at least not fly (or climb high mountains) after diving?</string>
+    <string name="question_three_hint">Insert number of hours e.g. 12, 24 or 36</string>
+    <string name="question_four">Question Four</string>
+    <string name="question_four_text">What does the sign on the picture mean (under water)?</string>
+    <string name="option_a_question_four">Everything is fine</string>
+    <string name="option_b_question_four">Going up</string>
+    <string name="option_c_question_four">It means nothing</string>
+    <string name="option_d_question_four">Nice work, thumbs up!</string>
+    <string name="question_five">Question Five</string>
+    <string name="question_five_text">What is part of the buddy check before diving? Multiple answers possible.</string>
+    <string name="option_a_question_five">Check the BCD of your buddy</string>
+    <string name="option_b_question_five">Check if weights are present and fixed</string>
+    <string name="option_c_question_five">Check the air: Tank is open and take multiple breaths</string>
+    <string name="option_d_question_five">Check all releases to confirm they are secure</string>
+    <string name="submit">submit</string>
+</resources>
